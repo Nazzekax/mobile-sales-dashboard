@@ -97,7 +97,7 @@ The dashboard includes:
 
 ## Author
 
-**Nazerke Supotayeva**
+**Nazerke Supotaeva**
 
 Data Science Intern
 
