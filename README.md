@@ -94,11 +94,6 @@ The dashboard includes:
 
 ---
 
-## Project Report
-
-📄 Dashboard Report available in this repository.
-
----
 
 ## Author
 
